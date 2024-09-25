@@ -1,0 +1,28 @@
+.nav-list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+body {
+    margin: 0;
+}
+
+.hero {
+
+    background: #FFE4CC;
+}
+.container{display: flex;
+    width: 1600px;
+    margin: 0 auto;
+    }
+    .hero-flex{
+        display: flex;
+        align-items: center;
+        gap: 50px;
+        }
+        .header-flex{
+            display: flex;
+            align-items: center;
+            gap: 100px;
+            }
